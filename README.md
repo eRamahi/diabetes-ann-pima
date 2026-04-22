@@ -74,25 +74,7 @@ diabetes-ann-pima/
 
 ---
 
-## Installation & Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/eRamahi/diabetes-ann-pima.git
-cd diabetes-ann-pima
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python code/diabetes_ann_pima.py
-```
-
-Or open `code/diabetes_ann_pima.ipynb` directly in Jupyter Notebook.
-
----
-
 ## Author
 
 **Ihab Al Ramahi**
-[GitHub](https://github.com/eRamahi) · [LinkedIn](https://linkedin.com/in/ihab-al-ramahi)
+[GitHub](https://github.com/eRamahi) · [LinkedIn](https://linkedin.com/in/ihab-ramahi)
